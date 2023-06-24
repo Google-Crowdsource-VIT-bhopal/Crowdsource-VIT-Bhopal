@@ -590,11 +590,12 @@ align-items: flex-end;
   justify-content: center;
   align-items: center;
   border-radius: 60px;
+  
   background: linear-gradient(lightblue,rgb(161, 151, 222));
 }
 .ucimage{
   border-radius: 60px;
-  
+  height: 30vw;
   width: 50vw;
 }
 
