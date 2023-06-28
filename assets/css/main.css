@@ -458,7 +458,11 @@ align-items: flex-end;
   font-weight: 500;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
-
+.launch::first-letter{
+  color: purple;
+  font-style: italic;
+  font-weight: 400;
+}
 
 /*slider*/
 /* Slideshow container */
